@@ -1,0 +1,10 @@
+#parent {
+  height: 400px;
+  width: 400px;
+  background-color: aquamarine;
+}
+#child {
+  height: 250px;
+  width: 250px;
+  background-color: blueviolet;
+}
